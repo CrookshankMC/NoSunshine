@@ -1,2 +1,0 @@
-# NoSunshine
-AP CS Project
